@@ -17,7 +17,7 @@ navigation.header.activateTracker=Activate Tracker
 ```
 
 ## How to install
-Extract the zip folder and navigate to the project directory in the terminal
+Navigate to the project directory in the terminal
 Run "composer install" to install the dependencies or run  "composer update" to update the dependencies
 
 ```bash
