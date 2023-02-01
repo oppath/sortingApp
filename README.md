@@ -15,10 +15,6 @@ general.action.add-to-cart=Add to Cart
 # Button that links to https://my.tractive.com/#/activate/device
 navigation.header.activateTracker=Activate Tracker
 ```
-## Assumptions
-1. The input file will be provided by the end user.
-2. Only one input file  will be processed at a time.
-3. The output file path will be displayed in the terminal after successful execution.
 
 ## How to install
 Extract the zip folder and navigate to the project directory in the terminal
